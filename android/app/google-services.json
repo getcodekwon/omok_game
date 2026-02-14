@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808231189872",
+    "project_id": "omok-game-project",
+    "storage_bucket": "omok-game-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808231189872:android:13cf9d671d492ba3f4e3b5",
+        "android_client_info": {
+          "package_name": "com.example.omok_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRjCZvXLmWZsOthrDMNOMTmyqJYadt2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
